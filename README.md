@@ -1,4 +1,4 @@
-# todo_application
+# Flutter Provider (add to cart example)
 
 A new Flutter project.
 
